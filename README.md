@@ -1,2 +1,3 @@
 # gittrial
-1st repo on git
+
+1st repo on github
